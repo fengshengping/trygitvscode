@@ -1,4 +1,4 @@
 @new CompositionEvent()
-export class Something(
-
-) 
+export class Something(){
+    
+} 
